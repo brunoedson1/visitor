@@ -47,6 +47,9 @@ void visit(Funcionario funcionario);
 Implementam diferentes operações:
 
 VisitorXml → exporta para XML
+
 VisitorJson → exporta para JSON
+
 PessoaVisitor → formatação legível
+
 Outros visitantes podem ser adicionados: CSV, HTML, relatório financeiro, validação etc.
